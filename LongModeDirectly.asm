@@ -137,4 +137,4 @@ LongMode:
     mov rax, 0x1F211F641F6C1F72
     mov [edi + 16], rax
     
-    jmp Main.Long  
+    jmp Main.Long                     ; You should replace this jump to wherever you want to jump to.
